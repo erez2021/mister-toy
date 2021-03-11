@@ -1,0 +1,32 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "run-sass": "node-sass --watch -o src/styles/css src/styles"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.6.5",
+    "css": "^3.0.0",
+    "element-ui": "^2.15.1",
+    "scss": "^0.2.4",
+    "vue": "^2.6.11",
+    "vue-chartjs": "^3.5.1",
+    "vue-router": "^3.2.0",
+    "vue2-google-maps": "^0.10.7",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

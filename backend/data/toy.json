@@ -1,0 +1,121 @@
+[
+  {
+    "name": "vel sed",
+    "price": 9,
+    "type": "Funny",
+    "createdAt": "1993-10-09T21:11:32.547Z",
+    "inStock": false
+  },
+  {
+    "name": "ac fringilla",
+    "price": 66,
+    "type": "Adult",
+    "createdAt": "1981-12-20T07:25:47.713Z",
+    "inStock": true
+  },
+  {
+    "name": "amet risus",
+    "price": 97,
+    "type": "Adult",
+    "createdAt": "1970-05-24T12:34:08.299Z",
+    "inStock": false
+  },
+  {
+    "name": "at facilisis",
+    "price": 6,
+    "type": "Adult",
+    "createdAt": "1987-08-20T08:30:04.280Z",
+    "inStock": true
+  },
+  {
+    "name": "sit molestie",
+    "price": 6,
+    "type": "Adult",
+    "createdAt": "1976-03-23T16:02:05.231Z",
+    "inStock": false
+  },
+  {
+    "name": "aliquam odio",
+    "price": 72,
+    "type": "Funny",
+    "createdAt": "1983-07-30T03:51:16.639Z",
+    "inStock": true
+  },
+  {
+    "name": "et augue",
+    "price": 91,
+    "type": "Adult",
+    "createdAt": "1975-09-11T22:51:10.082Z",
+    "inStock": false
+  },
+  {
+    "name": "mattis nunc",
+    "price": 58,
+    "type": "Funny",
+    "createdAt": "1975-04-16T08:11:54.387Z",
+    "inStock": false
+  },
+  {
+    "name": "convallis rutrum",
+    "price": 62,
+    "type": "Educational",
+    "createdAt": "1981-01-27T13:56:44.618Z",
+    "inStock": true
+  },
+  {
+    "name": "libero placerat",
+    "price": 61,
+    "type": "Funny",
+    "createdAt": "1984-11-25T23:46:50.674Z",
+    "inStock": false
+  },
+  {
+    "name": "odio vestibulum",
+    "price": 91,
+    "type": "Funny",
+    "createdAt": "1972-02-21T17:42:21.383Z",
+    "inStock": false
+  },
+  {
+    "name": "magna placerat",
+    "price": 48,
+    "type": "Educational",
+    "createdAt": "1994-06-16T13:47:16.885Z",
+    "inStock": true
+  },
+  {
+    "name": "dolor tincidunt",
+    "price": 69,
+    "type": "Adult",
+    "createdAt": "1972-03-27T00:53:35.037Z",
+    "inStock": true
+  },
+  {
+    "name": "consequat sit",
+    "price": 36,
+    "type": "Educational",
+    "createdAt": "1986-12-16T12:37:29.670Z",
+    "inStock": false
+  },
+  {
+    "name": "dui porta",
+    "price": 72,
+    "type": "Funny",
+    "createdAt": "1982-03-05T19:33:22.618Z",
+    "inStock": true
+  },
+  {
+    "name": "dolor et",
+    "price": 78,
+    "type": "Adult",
+    "createdAt": "1984-05-06T17:54:20.932Z",
+    "inStock": false
+  },
+  {
+    "name": "nec suspendisse",
+    "price": 5,
+    "type": "Educational",
+    "createdAt": "1974-03-03T12:03:19.543Z",
+    "inStock": false
+  }
+]

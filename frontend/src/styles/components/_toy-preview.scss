@@ -1,0 +1,16 @@
+
+.preview {
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+grid-gap: 15px;
+width: 100%;
+grid-auto-flow: dense;
+}
+
+.card{
+  
+    background-color: rgb(40, 117, 122);
+    border-radius: 5px;
+    border: 1px solid black;
+
+}
